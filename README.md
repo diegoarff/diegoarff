@@ -4,7 +4,7 @@
 I'm a Computer Engineering student who is passionate about writing code, solving problems and working with teams.
 
 - 🔭 I currently study at Universidad Rafael Urdaneta.
-- 📚 I’m currently learning MERN / PERN stack.
+- 📚 I’m learning MERN / PERN stack.
 - 👯 I’m looking for any opportunities that would help me grow as a developer.
 - :speech_balloon: My spoken languages are Spanish (Native) and English (Advanced).
 
